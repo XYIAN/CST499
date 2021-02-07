@@ -1,0 +1,37 @@
+notes: 
+-bounding boxes for underwater 
+-bounding annotation 
+-1hr meeting each week, primarily through slack 
+-meeting time: tuesday after 1
+
+
+cuthulu:
+-refresh rate issue, tracking? 
+-visualize and also edit 
+-visulization is main concern 
+-
+
+Coding related notes:
+-fork off main
+-javafx 
+-video playback->do not edit 
+-
+
+Lingo-notes:
+-master= best quality video
+-mezzanine - mp4 
+-video sequence=one dive 
+-camera id who video id-number 
+-
+
+Real time annotations:  
+-overlapping for video manager 
+-
+
+things to download: 
+-fathomnet.org for training sets 
+-login:guest passsword:friend
+ 
+- 
+- 
+-
